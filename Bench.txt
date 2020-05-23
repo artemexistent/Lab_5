@@ -1,0 +1,20 @@
+N=32
+Type1:
+Add   time:0    memory:16
+Connectivity components     time:0.016
+Graph traversal      time:0.016
+Decstra     time:0.437
+Topoligical     time:0.016
+Tree     time:0.093
+min Tree     time:0.078
+
+
+
+Type2:
+Add   time:0    memory:16
+Connectivity components     time:0.032
+Graph traversal      time:0.031
+Decstra     time:0.437
+Topoligical     time:0.016
+Tree     time:0.109
+min Tree     time:0.11
